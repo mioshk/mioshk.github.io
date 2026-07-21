@@ -287,6 +287,26 @@ https://pan.quark.cn/s/ed0131e73024
 https://pan.quark.cn/s/2ba05410f0f4</BatchDownloadLinks>
   </Mod>
   <Mod>
+    <Name>Another Location</Name>
+    <ChineseName>另一处地点</ChineseName>
+    <Version>1.0.0.0</Version>
+    <Link>https://pan.quark.cn/s/9d8ed7e02b5c</Link>
+    <Dependencies>Benchwarp; ItemChanger; MenuChanger; QoL; Randomizer 4; RandomizerCore; RandomizerCore.Json; Vasi</Dependencies>
+    <Integrations>RandoSettingsManager</Integrations>
+    <Tags/>
+    <DescriptionCN>在随机化模式中添加了一个新地点。具体条款与条件可能适用。</DescriptionCN>
+    <DescriptionEN>Adds one location to the Randomizer. Terms and Conditions may apply</DescriptionEN>
+    <BatchDownloadLinks>https://pan.quark.cn/s/9d8ed7e02b5c
+https://pan.quark.cn/s/3a7f95b32197
+https://pan.quark.cn/s/a0014b6875b2
+https://pan.quark.cn/s/9b529e894a6a
+https://pan.quark.cn/s/64d7ed15fab5
+https://pan.quark.cn/s/65f5861249d1
+https://pan.quark.cn/s/7ab0a9ba9d2d
+https://pan.quark.cn/s/313f3d778ed0
+https://pan.quark.cn/s/e3054eca2f2c</BatchDownloadLinks>
+  </Mod>
+  <Mod>
     <Name>Any Radiance 3.0</Name>
     <ChineseName>辐光 3.0</ChineseName>
     <Version>1.0.0.0</Version>
@@ -371,14 +391,14 @@ https://pan.quark.cn/s/e3054eca2f2c</BatchDownloadLinks>
   <Mod>
     <Name>Architect</Name>
     <ChineseName>建筑师</ChineseName>
-    <Version>3.31.3.3</Version>
-    <Link>https://pan.quark.cn/s/4fba62398ec7</Link>
+    <Version>3.31.4.2</Version>
+    <Link>https://pan.quark.cn/s/0c53a9e15303</Link>
     <Dependencies>ItemChanger; ItemCreator; SFCore; Satchel; WavLib</Dependencies>
     <Integrations>HKMP</Integrations>
     <Tags>玩法</Tags>
     <DescriptionCN>一款空洞骑士关卡编辑模组，通过内置的关卡编辑器和分享功能，轻松制作并分享自定义关卡。</DescriptionCN>
     <DescriptionEN>A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.</DescriptionEN>
-    <BatchDownloadLinks>https://pan.quark.cn/s/4fba62398ec7
+    <BatchDownloadLinks>https://pan.quark.cn/s/0c53a9e15303
 https://pan.quark.cn/s/a0014b6875b2
 https://pan.quark.cn/s/ca26700203d3
 https://pan.quark.cn/s/13b9de2767be
@@ -941,14 +961,14 @@ https://pan.quark.cn/s/e3054eca2f2c</BatchDownloadLinks>
   <Mod>
     <Name>Breakable Wall Randomizer</Name>
     <ChineseName>可破坏墙壁随机化</ChineseName>
-    <Version>4.1.1.8</Version>
-    <Link>https://pan.quark.cn/s/5b62ee8f81e0</Link>
+    <Version>4.1.2.0</Version>
+    <Link>https://pan.quark.cn/s/7e5a7caf9315</Link>
     <Dependencies>Benchwarp; ItemChanger; MenuChanger; QoL; Randomizer 4; RandomizerCore; RandomizerCore.Json; Satchel; Vasi</Dependencies>
     <Integrations/>
     <Tags>玩法</Tags>
     <DescriptionCN>空洞骑士随机化模组的可破坏墙壁扩展。</DescriptionCN>
     <DescriptionEN>A Hollow Knight Randomizer add-on for breakable walls.</DescriptionEN>
-    <BatchDownloadLinks>https://pan.quark.cn/s/5b62ee8f81e0
+    <BatchDownloadLinks>https://pan.quark.cn/s/7e5a7caf9315
 https://pan.quark.cn/s/3a7f95b32197
 https://pan.quark.cn/s/a0014b6875b2
 https://pan.quark.cn/s/9b529e894a6a
@@ -1272,14 +1292,14 @@ https://pan.quark.cn/s/ed0131e73024</BatchDownloadLinks>
   <Mod>
     <Name>Charm Rebalanced</Name>
     <ChineseName>护符平衡</ChineseName>
-    <Version>3.0.4.0</Version>
-    <Link>https://pan.quark.cn/s/b63bb211ac4e</Link>
+    <Version>3.0.5.0</Version>
+    <Link>https://pan.quark.cn/s/ec12e5ba78c9</Link>
     <Dependencies>SFCore; WavLib</Dependencies>
     <Integrations/>
     <Tags>护符</Tags>
     <DescriptionCN>点击[查看说明]以了解所有改动。如果您喜欢这个模组，请考虑在GitHub仓库上点个星标，这将帮助更多人发现这个模组！</DescriptionCN>
     <DescriptionEN>Click [View Readme] to see all the changes. If you enjoy the mod, please consider giving the GitHub repository a star, this will help spread the mod to more people!</DescriptionEN>
-    <BatchDownloadLinks>https://pan.quark.cn/s/b63bb211ac4e
+    <BatchDownloadLinks>https://pan.quark.cn/s/ec12e5ba78c9
 https://pan.quark.cn/s/13b9de2767be
 https://pan.quark.cn/s/ed0131e73024</BatchDownloadLinks>
   </Mod>
@@ -2364,13 +2384,13 @@ https://pan.quark.cn/s/c08ffdc90dcb</BatchDownloadLinks>
     <Name>Double Enemies</Name>
     <ChineseName>双倍敌人</ChineseName>
     <Version>1.1.4.0</Version>
-    <Link>https://pan.quark.cn/s/c45710fe937b</Link>
+    <Link>https://pan.quark.cn/s/ce7f3a7866c1</Link>
     <Dependencies>DoubleRadiance; Invincibility Monitor; Satchel; Vasi</Dependencies>
     <Integrations/>
     <Tags/>
     <DescriptionCN>复制游戏中的大部分敌人，并使复制的首领共享生命值。</DescriptionCN>
     <DescriptionEN>Duplicates most enemies in the game, and shares hp between duplicate bosses.</DescriptionEN>
-    <BatchDownloadLinks>https://pan.quark.cn/s/c45710fe937b
+    <BatchDownloadLinks>https://pan.quark.cn/s/ce7f3a7866c1
 https://pan.quark.cn/s/d103947d6b1a
 https://pan.quark.cn/s/6e5f68777eb5
 https://pan.quark.cn/s/c08ffdc90dcb
@@ -5072,18 +5092,18 @@ https://pan.quark.cn/s/ed0131e73024</BatchDownloadLinks>
   <Mod>
     <Name>Lore Randomizer</Name>
     <ChineseName>剧情随机化器</ChineseName>
-    <Version>0.4.1.0</Version>
-    <Link>https://pan.quark.cn/s/d5f16a47c976</Link>
+    <Version>0.4.2.0</Version>
+    <Link>https://pan.quark.cn/s/93500d8127a1</Link>
     <Dependencies>Benchwarp; ItemChanger; KorzUtils; LoreCore; MenuChanger; QoL; Randomizer 4; RandomizerCore; RandomizerCore.Json; Vasi</Dependencies>
     <Integrations/>
     <Tags>玩法</Tags>
     <DescriptionCN>随机化4连接，添加了一系列与背景故事相关的物品和地点。</DescriptionCN>
     <DescriptionEN>Randomizer 4 connection that adds a bunch of lore related items and locations.</DescriptionEN>
-    <BatchDownloadLinks>https://pan.quark.cn/s/d5f16a47c976
+    <BatchDownloadLinks>https://pan.quark.cn/s/93500d8127a1
 https://pan.quark.cn/s/3a7f95b32197
 https://pan.quark.cn/s/a0014b6875b2
 https://pan.quark.cn/s/a197fe50f247
-https://pan.quark.cn/s/080d53166b82
+https://pan.quark.cn/s/580464f7ed00
 https://pan.quark.cn/s/9b529e894a6a
 https://pan.quark.cn/s/64d7ed15fab5
 https://pan.quark.cn/s/65f5861249d1
@@ -5094,14 +5114,14 @@ https://pan.quark.cn/s/e3054eca2f2c</BatchDownloadLinks>
   <Mod>
     <Name>LoreCore</Name>
     <ChineseName>核心传说</ChineseName>
-    <Version>0.7.0.0</Version>
-    <Link>https://pan.quark.cn/s/080d53166b82</Link>
+    <Version>0.7.1.0</Version>
+    <Link>https://pan.quark.cn/s/580464f7ed00</Link>
     <Dependencies>ItemChanger; KorzUtils</Dependencies>
     <Integrations/>
     <Tags>工具</Tags>
     <DescriptionCN>添加了一系列与背景故事相关的物品更换器位置和物品。</DescriptionCN>
     <DescriptionEN>Adds a bunch of lore related Item Changer locations and items.</DescriptionEN>
-    <BatchDownloadLinks>https://pan.quark.cn/s/080d53166b82
+    <BatchDownloadLinks>https://pan.quark.cn/s/580464f7ed00
 https://pan.quark.cn/s/a0014b6875b2
 https://pan.quark.cn/s/a197fe50f247</BatchDownloadLinks>
   </Mod>
@@ -8769,7 +8789,7 @@ https://pan.quark.cn/s/c08ffdc90dcb</BatchDownloadLinks>
     <DescriptionCN>在《空洞骑士》中实现《超级鸡马》玩法，需使用HKMP与建筑师Mod。</DescriptionCN>
     <DescriptionEN>Ultimate Chicken Horse in Hollow Knight, using HKMP and the Architect mod.</DescriptionEN>
     <BatchDownloadLinks>https://pan.quark.cn/s/33dd863bc7db
-https://pan.quark.cn/s/4fba62398ec7
+https://pan.quark.cn/s/0c53a9e15303
 https://pan.quark.cn/s/4be9d1ccef2c
 https://pan.quark.cn/s/a0014b6875b2
 https://pan.quark.cn/s/ca26700203d3
