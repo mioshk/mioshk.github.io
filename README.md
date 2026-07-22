@@ -2,6 +2,9 @@
 
 **空洞骑士·骑士模组师**
 
+
+作者：[MioSs-](https://space.bilibili.com/538844794)
+
 *让每一位骑士都能轻松享受 Mod 的乐趣*
 
 ---
@@ -67,8 +70,7 @@
 
 ## 🙏 致谢
 
-- 作者：[MioSs-](https://space.bilibili.com/538844794)
-- 感谢所有 Mod 作者与 Hollow Knight 社区
+感谢所有 Mod 作者与 Hollow Knight 社区
 
 ---
 
